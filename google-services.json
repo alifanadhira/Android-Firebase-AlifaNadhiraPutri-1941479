@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329571692336",
+    "project_id": "android-firebaseuas",
+    "storage_bucket": "android-firebaseuas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329571692336:android:2bd20ff0bef71fab04e2f5",
+        "android_client_info": {
+          "package_name": "andorid.uas_smt4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329571692336-hmufmp9e3j0iujkb4li1qm6cfb2ouqbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMWwbwdDzz8MaJFiP3J6UcuqmWIoSOmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329571692336-hmufmp9e3j0iujkb4li1qm6cfb2ouqbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
